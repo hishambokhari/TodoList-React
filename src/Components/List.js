@@ -5,7 +5,7 @@ export default class List extends Component {
   render() {
     return (
       <div>
-        Hello from the list
+        <h1>Hello</h1> 
         <Item />
       </div>
     )
